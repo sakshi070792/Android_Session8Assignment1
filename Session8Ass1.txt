@@ -1,0 +1,2 @@
+Ans 1)Android provides many ways of storing data of an application. One of this way is called Shared Preferences. Shared Preferences allow you to save and retrieve data in the form of key,value pair.
+Ans 2)We can save String,Integer,float,long anything in Shared Preferences using sharedpreference.editor class which have putString() method,putInt() method etc.
